@@ -1,0 +1,15 @@
+{
+  "name": "pixel-nen-local",
+  "owner": {
+    "name": "local"
+  },
+  "description": "Local copy of aqua2409z/pixel-chat-themes with the command renamed to /nen.",
+  "plugins": [
+    {
+      "name": "pixel-themes",
+      "source": "./pixel-themes",
+      "description": "Pixel/ASCII wallpapers for Claude Code. Run /nen.",
+      "version": "1.4.0"
+    }
+  ]
+}
